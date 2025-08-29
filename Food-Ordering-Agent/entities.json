@@ -1,0 +1,104 @@
+{
+    "food_item": {
+        "Jeera Rice": [
+            "jeera rice",
+            "cumin rice",
+            "zeera rice"
+        ],
+        "Veg Pulao": [
+            "vegetable pulao",
+            "veg rice",
+            "pulao"
+        ],
+        "Fried Rice": [
+            "fried rice",
+            "veg fried rice",
+            "chinese rice"
+        ],
+        "Curd Rice": [
+            "curd rice",
+            "yogurt rice",
+            "thayir sadam"
+        ],
+        "Biryani": [
+            "biryani",
+            "chicken biryani",
+            "hyderabadi biryani"
+        ],
+        "Paneer Butter Masala": [
+            "paneer butter masala",
+            "pbm",
+            "butter paneer"
+        ],
+        "Chole Masala": [
+            "chole",
+            "chana masala",
+            "chole curry"
+        ],
+        "Dal Makhani": [
+            "dal makhani",
+            "buttery dal",
+            "makhani dal"
+        ],
+        "Rajma Masala": [
+            "rajma",
+            "rajma curry",
+            "rajma masala"
+        ],
+        "Kadai Paneer": [
+            "kadai paneer",
+            "spicy paneer",
+            "karahi paneer"
+        ],
+        "Tandoori Roti": [
+            "tandoori roti",
+            "roti",
+            "oven roti"
+        ],
+        "Butter Naan": [
+            "butter naan",
+            "naan",
+            "plain naan"
+        ],
+        "Garlic Naan": [
+            "garlic naan",
+            "naan garlic",
+            "lasooni naan"
+        ],
+        "Missi Roti": [
+            "missi roti",
+            "besan roti",
+            "spicy roti"
+        ],
+        "Lachha Paratha": [
+            "lachha paratha",
+            "layered paratha",
+            "paratha"
+        ],
+        "Chicken Curry": [
+            "chicken curry",
+            "spicy chicken",
+            "masala chicken"
+        ],
+        "Butter Chicken": [
+            "butter chicken",
+            "murgh makhani",
+            "creamy chicken"
+        ],
+        "Chicken Tikka": [
+            "chicken tikka",
+            "grilled chicken",
+            "tandoori chicken tikka"
+        ],
+        "Chicken 65": [
+            "chicken 65",
+            "65 chicken",
+            "spicy fried chicken"
+        ],
+        "Chicken Korma": [
+            "chicken korma",
+            "creamy chicken curry",
+            "korma"
+        ]
+    }
+}

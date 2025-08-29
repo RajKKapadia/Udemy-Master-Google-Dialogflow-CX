@@ -1,0 +1,347 @@
+[
+    {
+        "item_name": "Jeera Rice",
+        "ingredients": [
+            "basmati rice",
+            "cumin seeds",
+            "ghee",
+            "salt"
+        ],
+        "quantity": "250 grams",
+        "price": 120,
+        "spicy_level": "not spicy",
+        "synonyms": [
+            "jeera rice",
+            "cumin rice",
+            "zeera rice"
+        ]
+    },
+    {
+        "item_name": "Veg Pulao",
+        "ingredients": [
+            "basmati rice",
+            "carrots",
+            "beans",
+            "peas",
+            "spices"
+        ],
+        "quantity": "300 grams",
+        "price": 150,
+        "spicy_level": "mild spicy",
+        "synonyms": [
+            "vegetable pulao",
+            "veg rice",
+            "pulao"
+        ]
+    },
+    {
+        "item_name": "Fried Rice",
+        "ingredients": [
+            "rice",
+            "spring onions",
+            "carrot",
+            "soy sauce",
+            "pepper"
+        ],
+        "quantity": "300 grams",
+        "price": 160,
+        "spicy_level": "mild spicy",
+        "synonyms": [
+            "fried rice",
+            "veg fried rice",
+            "chinese rice"
+        ]
+    },
+    {
+        "item_name": "Curd Rice",
+        "ingredients": [
+            "rice",
+            "curd",
+            "mustard seeds",
+            "curry leaves",
+            "ginger"
+        ],
+        "quantity": "250 grams",
+        "price": 100,
+        "spicy_level": "not spicy",
+        "synonyms": [
+            "curd rice",
+            "yogurt rice",
+            "thayir sadam"
+        ]
+    },
+    {
+        "item_name": "Biryani",
+        "ingredients": [
+            "basmati rice",
+            "chicken",
+            "biryani masala",
+            "onion",
+            "mint"
+        ],
+        "quantity": "350 grams",
+        "price": 220,
+        "spicy_level": "spicy",
+        "synonyms": [
+            "biryani",
+            "chicken biryani",
+            "hyderabadi biryani"
+        ]
+    },
+    {
+        "item_name": "Paneer Butter Masala",
+        "ingredients": [
+            "paneer",
+            "butter",
+            "tomato",
+            "cream",
+            "spices"
+        ],
+        "quantity": "200 grams",
+        "price": 180,
+        "spicy_level": "mild spicy",
+        "synonyms": [
+            "paneer butter masala",
+            "pbm",
+            "butter paneer"
+        ]
+    },
+    {
+        "item_name": "Chole Masala",
+        "ingredients": [
+            "chickpeas",
+            "onion",
+            "tomato",
+            "chole masala"
+        ],
+        "quantity": "200 grams",
+        "price": 140,
+        "spicy_level": "spicy",
+        "synonyms": [
+            "chole",
+            "chana masala",
+            "chole curry"
+        ]
+    },
+    {
+        "item_name": "Dal Makhani",
+        "ingredients": [
+            "black lentils",
+            "butter",
+            "cream",
+            "spices"
+        ],
+        "quantity": "200 grams",
+        "price": 150,
+        "spicy_level": "mild spicy",
+        "synonyms": [
+            "dal makhani",
+            "buttery dal",
+            "makhani dal"
+        ]
+    },
+    {
+        "item_name": "Rajma Masala",
+        "ingredients": [
+            "kidney beans",
+            "onion",
+            "tomato",
+            "garam masala"
+        ],
+        "quantity": "200 grams",
+        "price": 140,
+        "spicy_level": "mild spicy",
+        "synonyms": [
+            "rajma",
+            "rajma curry",
+            "rajma masala"
+        ]
+    },
+    {
+        "item_name": "Kadai Paneer",
+        "ingredients": [
+            "paneer",
+            "capsicum",
+            "onion",
+            "tomato",
+            "spices"
+        ],
+        "quantity": "200 grams",
+        "price": 170,
+        "spicy_level": "spicy",
+        "synonyms": [
+            "kadai paneer",
+            "spicy paneer",
+            "karahi paneer"
+        ]
+    },
+    {
+        "item_name": "Tandoori Roti",
+        "ingredients": [
+            "whole wheat flour",
+            "salt",
+            "water"
+        ],
+        "quantity": "1 piece",
+        "price": 30,
+        "spicy_level": "not spicy",
+        "synonyms": [
+            "tandoori roti",
+            "roti",
+            "oven roti"
+        ]
+    },
+    {
+        "item_name": "Butter Naan",
+        "ingredients": [
+            "maida",
+            "butter",
+            "yeast",
+            "milk"
+        ],
+        "quantity": "1 piece",
+        "price": 40,
+        "spicy_level": "not spicy",
+        "synonyms": [
+            "butter naan",
+            "naan",
+            "plain naan"
+        ]
+    },
+    {
+        "item_name": "Garlic Naan",
+        "ingredients": [
+            "maida",
+            "garlic",
+            "butter",
+            "yeast"
+        ],
+        "quantity": "1 piece",
+        "price": 50,
+        "spicy_level": "not spicy",
+        "synonyms": [
+            "garlic naan",
+            "naan garlic",
+            "lasooni naan"
+        ]
+    },
+    {
+        "item_name": "Missi Roti",
+        "ingredients": [
+            "gram flour",
+            "wheat flour",
+            "spices",
+            "onion"
+        ],
+        "quantity": "1 piece",
+        "price": 35,
+        "spicy_level": "mild spicy",
+        "synonyms": [
+            "missi roti",
+            "besan roti",
+            "spicy roti"
+        ]
+    },
+    {
+        "item_name": "Lachha Paratha",
+        "ingredients": [
+            "wheat flour",
+            "ghee",
+            "salt"
+        ],
+        "quantity": "1 piece",
+        "price": 45,
+        "spicy_level": "not spicy",
+        "synonyms": [
+            "lachha paratha",
+            "layered paratha",
+            "paratha"
+        ]
+    },
+    {
+        "item_name": "Chicken Curry",
+        "ingredients": [
+            "chicken",
+            "onion",
+            "tomato",
+            "spices"
+        ],
+        "quantity": "250 grams",
+        "price": 200,
+        "spicy_level": "spicy",
+        "synonyms": [
+            "chicken curry",
+            "spicy chicken",
+            "masala chicken"
+        ]
+    },
+    {
+        "item_name": "Butter Chicken",
+        "ingredients": [
+            "chicken",
+            "butter",
+            "cream",
+            "tomato",
+            "spices"
+        ],
+        "quantity": "250 grams",
+        "price": 220,
+        "spicy_level": "mild spicy",
+        "synonyms": [
+            "butter chicken",
+            "murgh makhani",
+            "creamy chicken"
+        ]
+    },
+    {
+        "item_name": "Chicken Tikka",
+        "ingredients": [
+            "boneless chicken",
+            "yogurt",
+            "spices",
+            "lemon"
+        ],
+        "quantity": "200 grams",
+        "price": 210,
+        "spicy_level": "spicy",
+        "synonyms": [
+            "chicken tikka",
+            "grilled chicken",
+            "tandoori chicken tikka"
+        ]
+    },
+    {
+        "item_name": "Chicken 65",
+        "ingredients": [
+            "boneless chicken",
+            "red chili",
+            "garlic",
+            "spices"
+        ],
+        "quantity": "200 grams",
+        "price": 190,
+        "spicy_level": "spicy",
+        "synonyms": [
+            "chicken 65",
+            "65 chicken",
+            "spicy fried chicken"
+        ]
+    },
+    {
+        "item_name": "Chicken Korma",
+        "ingredients": [
+            "chicken",
+            "yogurt",
+            "cashew paste",
+            "spices"
+        ],
+        "quantity": "250 grams",
+        "price": 230,
+        "spicy_level": "mild spicy",
+        "synonyms": [
+            "chicken korma",
+            "creamy chicken curry",
+            "korma"
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<title>Chatbot Page</title>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=.2, user-scalable=no" />
+
+</head>
+
+<body>
+    <!-- Your Dialogflow Messenger code here... -->
+    <link rel="stylesheet"
+        href="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/themes/df-messenger-default.css">
+    <script src="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/df-messenger.js"></script>
+    <df-messenger project-id="youtube-dialogflow-cx" agent-id="d23c3df0-06ff-4e38-9ea3-469630288825" language-code="en"
+        max-query-length="-1">
+        <df-messenger-chat-bubble chat-title="food-ordering-agent">
+        </df-messenger-chat-bubble>
+    </df-messenger>
+    <style>
+        df-messenger {
+            z-index: 999;
+            position: fixed;
+            --df-messenger-font-color: #000;
+            --df-messenger-font-family: Google Sans;
+            --df-messenger-chat-background: #f3f6fc;
+            --df-messenger-message-user-background: #d3e3fd;
+            --df-messenger-message-bot-background: #fff;
+            bottom: 16px;
+            right: 16px;
+        }
+    </style>
+
+    <script>
+        let isOpen = false;
+        window.addEventListener('df-chat-open-changed', (event) => {
+            console.log(`Chat is ${event.detail.isOpen ? 'open' : 'closed'}`);
+            if (!isOpen) {
+                const dfMessenger = document.querySelector('df-messenger');
+                dfMessenger.sendQuery('hi');
+                isOpen = true;
+            }
+        });
+    </script>
+</body>
+
+</html>
